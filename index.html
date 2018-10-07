@@ -8,9 +8,12 @@
 <!--End of Bootstrap 4 Components-->
 </head>
 <body>
-    <p>Website is online</p>
-    <p>Another line of text</p>
-    <p>One last line of text</p>
-
+    <div id="nav-placeholder"></div>
+            
+            <script>
+            $(function(){
+              $("#nav-placeholder").load("nav.html");
+            });
+            </script>
 </body>
 </html>
