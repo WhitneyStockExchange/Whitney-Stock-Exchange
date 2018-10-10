@@ -1,0 +1,26 @@
+.blacknavbar {
+    background-color:black;
+}
+.logo {
+    color:goldenrod;
+    font-weight: bold;
+    font-size:20px;
+    padding:10px;
+}
+.mynavlinks {
+    color:white;
+    padding:20px;
+    font-size:17px;
+}
+a.mynavlinks:hover {
+    color:gold;
+    text-decoration: none;
+}
+a.logo:hover {
+    color:gold;
+    text-decoration: none;
+}
+.darkjumbo {
+    background:url(http://wallpapercave.com/wp/lWS9r8c.jpg);
+    background-position: center;
+}
