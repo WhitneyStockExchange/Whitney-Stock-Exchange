@@ -1,7 +1,7 @@
 .blacknavbar {
     background-color:black;
 }
-.logo {
+.mylogo {
     color:goldenrod;
     font-weight: bold;
     font-size:20px;
@@ -16,7 +16,7 @@ a.mynavlinks:hover {
     color:gold;
     text-decoration: none;
 }
-a.logo:hover {
+a.mylogo:hover {
     color:gold;
     text-decoration: none;
 }
