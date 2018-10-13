@@ -7,13 +7,13 @@
     font-size:20px;
     padding:10px;
 }
-.nav-link {
+#navlink1, #navlink2, #navlink3   {
     color:white;
     padding:20px;
     font-size:17px;
     text-decoration: none;
 }
-a.nav-link:hover {
+#navlink1:hover,#navlink2:hover,#navlink3:hover  {
     color:gold;
     text-decoration: none;
 }
