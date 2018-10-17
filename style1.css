@@ -38,7 +38,9 @@ p.meetingtext {
 .fixedpadding{
     padding: 100px;
 }
-  
+.blink{
+    color:white;
+}
 .blink:hover{
     animation: blink 2s infinite;
 }
