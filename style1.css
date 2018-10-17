@@ -44,6 +44,7 @@ p.meetingtext {
 }
   
 @keyframes blink{
-    33%{opacity: .0;}
-    66%{opacity: 1;}
+    0%{color:white;}
+    50%{color:gold;}
+    100%{color:white;}
 }
