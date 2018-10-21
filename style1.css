@@ -45,7 +45,7 @@ p.meetingtext {
     animation: blink 2s infinite;
 }
 .titledesc{
-    font-size:22px;
+    font-size:32px;
 }
   
 @keyframes blink{
