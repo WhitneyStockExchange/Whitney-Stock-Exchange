@@ -1,2 +1,2 @@
 # WSE
-Official website for Whitney Stock Exchange
+The Official website for Whitney Stock Exchange
